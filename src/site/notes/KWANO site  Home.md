@@ -3,30 +3,6 @@
 ---
 
 
----
-| Task | Status | |------|--------| | Task 1 | -[ ] | | Task 2 | -[x] |
----
-
-- [x]  dg-publish 
-- [x]  dg-home 
-
-
----
-- [x] dg-publish:
-- [x] dg-home:
-- [x] dg-publish
----
-
-| Task | Status | |------|--------| | Task 1 | -[ ] | | Task 2 | -[x] |
-
-| Task | Status | Priority |
-|------|--------|----------|
-| Complete project report | -[] | High |
-| Schedule team meeting | -[] | Medium |
-| Update client presentation | -[] | High |
-| Review budget proposal | -[] | Low |
-
-
 [](<Author: {{author}}
 Tags: Workflows, Tools
 Note Created: Tuesday 12th November 2024 21:10
