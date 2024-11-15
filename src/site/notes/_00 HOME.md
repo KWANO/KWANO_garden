@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-home/","tags":["RW_inbox","readwise","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/00-home/","tags":["RW_inbox","readwise"]}
 ---
 
 #kwano #project 
