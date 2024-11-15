@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kwano-site-home/","tags":["RW_inbox","readwise","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kwano-site-home/","tags":["RW_inbox","readwise","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 
