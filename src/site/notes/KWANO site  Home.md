@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kwano-site-home/","tags":["RW_inbox","readwise","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/kwano-site-home/","tags":["RW_inbox","readwise","gardenEntry"]}
 ---
 
 
@@ -8,15 +8,53 @@ Tags: Workflows, Tools
 Note Created: Tuesday 12th November 2024 21:10
 Last modified: Tuesday 12th November 2024 21:10>)
 
+## Workflows
 
-## Design Thinking
-## Design System
-## Data Gathering & Visualisation
-## Generative Ai
-## Production
+### Design Thinking
+### Design System
+### Data Gathering & Visualisation
+### Generative Ai
+### Production
+
+
+## Current investigation** 
+
+### Product design. 
+Themed not just for color but function. Look. Chart type. User permission 
+
+See vitally permissions link
+Hidden vs disabled states
+
+## Productivity 
+with Ai - Ai agents 
+
+  
+
+## Generative Ai.
+
+Interesting workflows used by artists 
+Interaction with screen
+Touch designer 
+
+
+  
+
+**Projects** 
+
+  
+
+Sales modeling 
+Story time
+Campaign monitor
+Adform dashboard 
+
+  
+
+Monthly showcase 
+NPD
+
 
 ## Project Case Studies
 ## NPD process
 
-![465687834_2533548163522477_1687585400981277117_n 1.jpg](/img/user/X/Attachments/465687834_2533548163522477_1687585400981277117_n%201.jpg)
 
